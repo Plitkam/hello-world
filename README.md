@@ -9,3 +9,4 @@ Now i will try to commit, than push my modifications from the terminal.
 I created a new branch and modify this file
 Then i want to create a commit and push my commit
 ez egy valtoztatas
+ez egy masik
